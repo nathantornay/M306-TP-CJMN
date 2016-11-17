@@ -1,2 +1,19 @@
 c:\users\nathan\documents\visual studio 2015\Projects\WpfApplicationM306Sln\WpfApplicationM306\bin\Debug\WpfApplicationM306.exe.config
 D:\Source\Repos\M306-TP-CJMN\WpfApplicationM306\bin\Debug\WpfApplicationM306.exe.config
+D:\Source\Repos\M306-TP-CJMN\WpfApplicationM306\bin\Debug\WpfApplicationM306.exe
+D:\Source\Repos\M306-TP-CJMN\WpfApplicationM306\bin\Debug\WpfApplicationM306.pdb
+D:\Source\Repos\M306-TP-CJMN\WpfApplicationM306\obj\Debug\WpfApplicationM306.csprojResolveAssemblyReference.cache
+D:\Source\Repos\M306-TP-CJMN\WpfApplicationM306\obj\Debug\MainWindow.g.cs
+D:\Source\Repos\M306-TP-CJMN\WpfApplicationM306\obj\Debug\App.g.cs
+D:\Source\Repos\M306-TP-CJMN\WpfApplicationM306\obj\Debug\WpfApplicationM306_MarkupCompile.cache
+D:\Source\Repos\M306-TP-CJMN\WpfApplicationM306\obj\Debug\WpfApplicationM306_MarkupCompile.lref
+D:\Source\Repos\M306-TP-CJMN\WpfApplicationM306\obj\Debug\MainWindow.baml
+D:\Source\Repos\M306-TP-CJMN\WpfApplicationM306\obj\Debug\WpfApplicationM306.g.resources
+D:\Source\Repos\M306-TP-CJMN\WpfApplicationM306\obj\Debug\WpfApplicationM306.Properties.Resources.resources
+D:\Source\Repos\M306-TP-CJMN\WpfApplicationM306\obj\Debug\WpfApplicationM306.csproj.GenerateResource.Cache
+D:\Source\Repos\M306-TP-CJMN\WpfApplicationM306\obj\Debug\WpfApplicationM306.exe
+D:\Source\Repos\M306-TP-CJMN\WpfApplicationM306\obj\Debug\WpfApplicationM306.pdb
+D:\Source\Repos\M306-TP-CJMN\WpfApplicationM306\obj\Debug\TypeExamenView.g.cs
+D:\Source\Repos\M306-TP-CJMN\WpfApplicationM306\obj\Debug\TypeExamenView.baml
+D:\Source\Repos\M306-TP-CJMN\WpfApplicationM306\obj\Debug\ExamenCreationQCMView.g.cs
+D:\Source\Repos\M306-TP-CJMN\WpfApplicationM306\obj\Debug\ExamenCreationQCMView.baml

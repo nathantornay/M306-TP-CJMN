@@ -5,8 +5,14 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApplicationM306"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="Menu principal" Height="281.373" Width="525">
     <Grid>
-        
+        <Label x:Name="label" Content="Correction d'épreuve - PROJECT V1" HorizontalAlignment="Left" Margin="114,10,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold"/>
+        <Button x:Name="button1" Content="Nouvelle examen" HorizontalAlignment="Left" Height="27" Margin="18,59,0,0" VerticalAlignment="Top" Width="140" Click="button1_Click"/>
+        <Button x:Name="button1_Copy" Content="Ouvrir un examen" HorizontalAlignment="Left" Height="27" Margin="184,59,0,0" VerticalAlignment="Top" Width="140"/>
+        <Button x:Name="button1_Copy1" Content="Corriger un examen" HorizontalAlignment="Left" Height="27" Margin="359,59,0,0" VerticalAlignment="Top" Width="140"/>
+        <Button x:Name="button1_Copy2" Content="Passer un examen" HorizontalAlignment="Left" Height="27" Margin="184,117,0,0" VerticalAlignment="Top" Width="140"/>
+        <Button x:Name="button1_Copy3" Content="Voir un examen fini" HorizontalAlignment="Left" Height="27" Margin="157,176,0,0" VerticalAlignment="Top" Width="201"/>
+
     </Grid>
 </Window>
