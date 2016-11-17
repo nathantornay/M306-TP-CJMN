@@ -1,0 +1,2 @@
+c:\users\nathan\documents\visual studio 2015\Projects\WpfApplicationM306Sln\WpfApplicationM306\bin\Debug\WpfApplicationM306.exe.config
+D:\Source\Repos\M306-TP-CJMN\WpfApplicationM306\bin\Debug\WpfApplicationM306.exe.config
