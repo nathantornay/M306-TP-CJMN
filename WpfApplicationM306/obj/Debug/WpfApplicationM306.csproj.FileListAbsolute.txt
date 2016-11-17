@@ -17,3 +17,5 @@ D:\Source\Repos\M306-TP-CJMN\WpfApplicationM306\obj\Debug\TypeExamenView.g.cs
 D:\Source\Repos\M306-TP-CJMN\WpfApplicationM306\obj\Debug\TypeExamenView.baml
 D:\Source\Repos\M306-TP-CJMN\WpfApplicationM306\obj\Debug\ExamenCreationQCMView.g.cs
 D:\Source\Repos\M306-TP-CJMN\WpfApplicationM306\obj\Debug\ExamenCreationQCMView.baml
+D:\Source\Repos\M306-TP-CJMN\WpfApplicationM306\obj\Debug\ExamenReponseExacteView.g.cs
+D:\Source\Repos\M306-TP-CJMN\WpfApplicationM306\obj\Debug\ExamenReponseExacteView.baml

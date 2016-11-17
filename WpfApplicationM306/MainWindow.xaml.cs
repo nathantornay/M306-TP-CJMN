@@ -32,6 +32,9 @@ namespace WpfApplicationM306
 
             var test = new ExamenCreationQCMView();
             test.ShowDialog();
+
+            var ExamenRepExa = new ExamenReponseExacteView();
+            ExamenRepExa.ShowDialog();
         }
     }
 }

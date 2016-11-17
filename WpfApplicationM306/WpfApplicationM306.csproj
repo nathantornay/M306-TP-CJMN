@@ -58,10 +58,17 @@
     <Compile Include="ExamenCreationQCMView.xaml.cs">
       <DependentUpon>ExamenCreationQCMView.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ExamenReponseExacteView.xaml.cs">
+      <DependentUpon>ExamenReponseExacteView.xaml</DependentUpon>
+    </Compile>
     <Compile Include="TypeExamenView.xaml.cs">
       <DependentUpon>TypeExamenView.xaml</DependentUpon>
     </Compile>
     <Page Include="ExamenCreationQCMView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ExamenReponseExacteView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

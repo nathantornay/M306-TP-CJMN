@@ -1,40 +1,36 @@
-﻿<Window x:Class="WpfApplicationM306.ExamenCreationQCMView"
+﻿<Window x:Class="WpfApplicationM306.ExamenReponseExacteView"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApplicationM306"
         mc:Ignorable="d"
-        Title="ExamenCreationQCMView" Height="378.417" Width="405.882">
+        Title="ExamenReponseExacteView" Height="378.417" Width="405.882">
     <Grid>
-        <Label x:Name="lblTitle" Content="Creation Examen QCM" HorizontalAlignment="Left" Margin="64,15,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.799,0.229" FontWeight="Bold"/>
+        <Label x:Name="lblTitle" Content="Creation Examen Réponse exacte" HorizontalAlignment="Left" Margin="86,18,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.799,0.229" FontWeight="Bold"/>
         <Label x:Name="label" Content="Question 1 :" HorizontalAlignment="Left" Margin="0,41,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.428,-0.133"/>
         <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="10,67,0,0" TextWrapping="Wrap" Text="Votre question ici " VerticalAlignment="Top" Width="272"/>
-        <CheckBox x:Name="checkBox" Content="REPONSE 1" HorizontalAlignment="Left" Margin="10,104,0,0" VerticalAlignment="Top"/>
-        <CheckBox x:Name="checkBox_Copy" Content="REPONSE 2" HorizontalAlignment="Left" Margin="107,104,0,0" VerticalAlignment="Top"/>
         <Label x:Name="label1" Content="Action" HorizontalAlignment="Left" Margin="315,30,0,0" VerticalAlignment="Top"/>
-        <Button x:Name="button" Content="Ajouter un choix" HorizontalAlignment="Left" Margin="286,96,0,0" VerticalAlignment="Top" Width="102" Height="23"/>
         <Button x:Name="button1" Content="Supprimer" HorizontalAlignment="Left" Margin="301,67,0,0" VerticalAlignment="Top" Width="75"/>
         <Button x:Name="button2" Content="Terminer" HorizontalAlignment="Left" Margin="315,312,0,0" VerticalAlignment="Top" Width="75"/>
         <Button x:Name="button3" Content="Save" HorizontalAlignment="Left" Margin="217,312,0,0" VerticalAlignment="Top" Width="75"/>
         <Button x:Name="button4" Content="Annuler" HorizontalAlignment="Left" Margin="126,312,0,0" VerticalAlignment="Top" Width="75"/>
         <Label x:Name="label_Copy" Content="Question 2 :" HorizontalAlignment="Left" Margin="0,123,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.428,-0.133"/>
         <TextBox x:Name="textBox_Copy" HorizontalAlignment="Left" Height="23" Margin="10,149,0,0" TextWrapping="Wrap" Text="Votre question ici " VerticalAlignment="Top" Width="272"/>
-        <CheckBox x:Name="checkBox_Copy1" Content="REPONSE 1" HorizontalAlignment="Left" Margin="10,186,0,0" VerticalAlignment="Top"/>
-        <CheckBox x:Name="checkBox_Copy2" Content="REPONSE 2" HorizontalAlignment="Left" Margin="107,186,0,0" VerticalAlignment="Top"/>
-        <Button x:Name="button_Copy" Content="Ajouter un choix" HorizontalAlignment="Left" Margin="286,178,0,0" VerticalAlignment="Top" Width="102" Height="23"/>
         <Button x:Name="button1_Copy" Content="Supprimer" HorizontalAlignment="Left" Margin="301,149,0,0" VerticalAlignment="Top" Width="75"/>
         <Button x:Name="button5" Content="Ajouter une question" HorizontalAlignment="Left" Margin="250,223,0,0" VerticalAlignment="Top" Width="138"/>
         <ToolBar x:Name="toolBar" Margin="0,-3,0,0" VerticalAlignment="Top" Height="21">
             <Label x:Name="Fichier" Content="Fichier" Height="26" VerticalAlignment="Top" FontSize="8"/>
             <Label x:Name="Fichier_Copy" Content="?" Height="26" VerticalAlignment="Top" FontSize="8" Margin="0,0,0,-10"/>
         </ToolBar>
-        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="23" Margin="207,181,0,0" TextWrapping="Wrap" Text="NbrPoint" VerticalAlignment="Top" Width="63"/>
-        <TextBox x:Name="textBox1_Copy" HorizontalAlignment="Left" Height="23" Margin="207,99,0,0" TextWrapping="Wrap" Text="NbrPoint" VerticalAlignment="Top" Width="63"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="23" Margin="301,178,0,0" TextWrapping="Wrap" Text="NbrPoint" VerticalAlignment="Top" Width="75"/>
+        <TextBox x:Name="textBox1_Copy" HorizontalAlignment="Left" Height="23" Margin="301,96,0,0" TextWrapping="Wrap" Text="NbrPoint" VerticalAlignment="Top" Width="75"/>
         <TextBox x:Name="textBox2" HorizontalAlignment="Left" Height="23" Margin="250,265,0,0" TextWrapping="Wrap" Text="60" VerticalAlignment="Top" Width="57"/>
         <Label x:Name="label2" Content="Temps disponible pour l'epreuve (MIN) " HorizontalAlignment="Left" Margin="10,261,0,0" VerticalAlignment="Top" Width="227" RenderTransformOrigin="0.5,0.5">
 
         </Label>
+        <TextBox x:Name="textBox3" HorizontalAlignment="Left" Height="23" Margin="10,96,0,0" TextWrapping="Wrap" Text="REPONSE" VerticalAlignment="Top" Width="272"/>
+        <TextBox x:Name="textBox3_Copy" HorizontalAlignment="Left" Height="23" Margin="10,178,0,0" TextWrapping="Wrap" Text="REPONSE" VerticalAlignment="Top" Width="272"/>
 
     </Grid>
 </Window>
